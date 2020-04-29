@@ -1,11 +1,44 @@
+Updated by 31_HideyukiAtago
+
 Unit Testing
 *What is Unit Testing?
-*Unit Testing is conducted by ____________
-*It is type of(blackbox/whitebox testing)
+Unit testing is the execution of a complete class, routine or small program that has been 
+written by either an individual or a team of programmers, which is tested in isolation 
+
+*Unit Testing is conducted by _____The Developer_______.
+
+*It is type of(blackbox testing).
 
 
 
 Integration Testing
 *What is Integration Testing?
-*Integration Testing is conducted by ____________
-* It is type of(blackbox/whitebox testing)
+Integration testing is the combined execution of two or more classes, packages, 
+components, or subsystems that have been created by multiple programmers or 
+programming teams.
+
+*Integration Testing is conducted by _____Game Testers_______.
+
+* It is type of(blackbox and whitebox testing).
+
+
+System Testing
+*What is system Testing?
+System testing is the execution of the software in its final configuration, including 
+integration with other software and hardware systems. It tests for security, performance, 
+resource loss, timing problems, and other issues that can’t be tested at lower levels of 
+integration.
+
+*System Testing is conducted by _____professional testing agent_______.
+
+*It is a type of (blackbox testing).
+
+Acceptance Testing
+*What is acceptance Testing?
+User Acceptance Testing is the final test before the customer signs-off and accepts it. It 
+is needed to ensure that the software meets the requirements as specified usually so 
+that the developer can get final payment for development.
+
+*Acceptance Testing is conducted by _____The end users_______.
+
+*It is a type of (whitebox testing).
